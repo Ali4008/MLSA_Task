@@ -22,7 +22,6 @@ import React from "react";
 import image from "../images/desk.jpg";
 
 const imageAltText = "Desktop";
-f
 /**
  * Project list
  *
