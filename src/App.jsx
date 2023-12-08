@@ -29,7 +29,7 @@ const siteProps = {
   email: "ali408mehmood@gmail.com",
   gitHub: "ali4008",
   instagram: "alimehmood408",
-  linkedIn: "Muhammad Ali Mahmood",
+  linkedIn: "ali-408-mehmood",
   medium: "",
   twitter: "",
   youTube: "",
